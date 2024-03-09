@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab1.dir/googletest.cpp.o CMakeFiles/lab1.dir/bitarray.cpp.o -o lab1  -lgtest 
