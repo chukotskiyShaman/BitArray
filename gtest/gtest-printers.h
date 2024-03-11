@@ -108,8 +108,8 @@
 #include <type_traits>
 #include <utility>
 #include <vector>
-#include "gtest/internal/gtest-internal.h"
-#include "gtest/internal/gtest-port.h"
+#include "internal/gtest-internal.h"
+#include "internal/gtest-port.h"
 
 #if GTEST_HAS_ABSL
 #include "absl/strings/string_view.h"
