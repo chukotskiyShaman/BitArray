@@ -37,7 +37,7 @@
 #ifndef GTEST_INCLUDE_GTEST_INTERNAL_GTEST_INTERNAL_H_
 #define GTEST_INCLUDE_GTEST_INTERNAL_GTEST_INTERNAL_H_
 
-#include "gtest/internal/gtest-port.h"
+#include "gtest-port.h"
 
 #if GTEST_OS_LINUX
 # include <stdlib.h>
