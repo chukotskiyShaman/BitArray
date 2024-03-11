@@ -61,10 +61,10 @@
 #include <type_traits>
 #include <vector>
 
-#include "gtest/gtest-message.h"
-#include "gtest/internal/gtest-filepath.h"
-#include "gtest/internal/gtest-string.h"
-#include "gtest/internal/gtest-type-util.h"
+#include "../gtest-message.h"
+#include "gtest-filepath.h"
+#include "gtest-string.h"
+#include "gtest-type-util.h"
 
 // Due to C++ preprocessor weirdness, we need double indirection to
 // concatenate two tokens when one of them is __LINE__.  Writing
